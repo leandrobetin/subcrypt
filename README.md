@@ -21,7 +21,7 @@ como usar:
 
 <pre>&lt;script type="text/javascript" src="/subcrypt/subcrypt.js"&gt;&lt;/script&gt;</pre>
 
-2 - Faça a chamada ao plugin associado ao formuçário desejado:
+2 - Faça a chamada ao plugin associado ao formulário desejado:
 
 <pre>
 $('#my_button').click(function(){
