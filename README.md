@@ -31,7 +31,7 @@ $('#my_button').click(function(){
 });
 </pre>
 
-3 - No arquivo PHP que receberá os dados do POST, inclua o arquivo <b>class_subcrypt.php</b> e utilize um objeto da classe <i>Subcrypt</i> para descritografar os valores recebidos:
+3 - No arquivo PHP que receberá os dados do POST, inclua o arquivo <b>class_subcrypt.php</b> e utilize um objeto da classe <i>Subcrypt</i> para descriptografar os valores recebidos:
 
 <pre>
   include_once 'class_subcrypt.php';
@@ -72,7 +72,7 @@ importante!
 dependências:
 -
 
-- jQuey. 
+- jQuery. 
 - PHP (com a extensão mcrypt ativa).
 - Cookies ativos no navegador.
 
